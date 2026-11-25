@@ -8,4 +8,3 @@ Use the Linux SDK to assess the liveness of an ID document image. The demo shows
 
 - [Linux setup](desktop-and-server/linux/README.md)
 - [Run the Linux sample](desktop-and-server/linux/sample-application.md)
-- [Interpret liveness decisions](document-liveness-decisions/README.md)

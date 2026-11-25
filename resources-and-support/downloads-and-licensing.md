@@ -4,8 +4,6 @@ hidden: true
 
 # Downloads & Licensing
 
-## Downloads & Licensing
-
 Request the matching authorized package from your SDK distributor:
 
 * `Truverion-Face-Recognition-Demo.zip`

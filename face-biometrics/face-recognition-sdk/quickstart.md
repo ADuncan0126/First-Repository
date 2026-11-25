@@ -4,8 +4,6 @@ icon: bolt
 
 # Quickstart
 
-## Quickstart
-
 1. Install the package for your target.
 2. Activate the SDK before processing data.
 3. Initialize it with release-approved configuration.

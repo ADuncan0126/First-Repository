@@ -4,8 +4,6 @@ icon: wrench
 
 # Troubleshooting
 
-## Troubleshooting
-
 | Symptom                 | Recovery                                                                                      |
 | ----------------------- | --------------------------------------------------------------------------------------------- |
 | Engine or model missing | Supply the matching authorized assets and restart.                                            |
@@ -16,3 +14,5 @@ icon: wrench
 | Camera unavailable      | Grant browser or desktop camera permission, then retry.                                       |
 
 `/health` reports configuration, not successful inference. For ID Document Liveness, allow cold start and retry a failed worker once with an approved fixture.
+
+If the issue persists, see [Contact & Support](contact-and-support.md) for what to include in a report.

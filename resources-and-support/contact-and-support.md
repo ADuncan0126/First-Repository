@@ -1,11 +1,24 @@
 ---
 icon: comments
+description: Contact Truverion for SDK integration, demo access, licensing, and technical support.
 ---
 
 # Contact & Support
 
-## Support
+Contact Truverion for help choosing an SDK, obtaining a demo package or license, or resolving an integration issue.
 
-Use your approved SDK support channel. Attach a minimal redacted diagnostic bundle: package identifier, Ubuntu version and architecture, adapter or engine version, sanitized logs, request metadata, and reproduction steps.
+| Channel | Contact |
+| --- | --- |
+| Email | [contact@truverion.tech](mailto:contact@truverion.tech) |
+| Telegram | [@truverion](https://t.me/truverion) |
+| WhatsApp | [+1 (706) 254-1372](https://wa.me/17062541372) |
 
-Exclude license keys, biometric templates, document images, and personal data.
+## Request a package or license
+
+Include the SDK name and edition, target platform, and the package or workflow you need. For Android, include the exact application ID from `app/build.gradle`. For Linux, include the Ubuntu version and architecture. See [License Options](license-options.md) for activation guidance.
+
+## Report a technical issue
+
+Include the SDK or demo version, operating system and device or architecture, steps to reproduce, the expected result, and the actual result. If available, include the error code and a short, redacted log excerpt.
+
+Remove license keys, biometric templates, face or document images, and personal data before sending diagnostics. Check [Troubleshooting](troubleshooting.md) for common setup and runtime errors.

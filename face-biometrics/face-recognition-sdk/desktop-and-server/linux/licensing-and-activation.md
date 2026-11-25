@@ -4,8 +4,6 @@ icon: key
 
 # Licensing & Activation
 
-## **Licensing & Activation**
-
 Request a license and activate the Face Recognition SDK on your target Linux machine.
 
 ### **1. Request a license**

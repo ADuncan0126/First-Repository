@@ -4,8 +4,6 @@ icon: box
 
 # Installation
 
-## **Installation**
-
 Set up the Linux demo and install its dependencies.
 
 ### 1. Prepare the demo

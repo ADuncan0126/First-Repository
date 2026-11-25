@@ -4,8 +4,6 @@ icon: user
 
 # Face Recognition SDK
 
-## Face Recognition SDK
-
 Use this Linux SDK for face detection and 1:1 face comparison.
 
 ### Start here

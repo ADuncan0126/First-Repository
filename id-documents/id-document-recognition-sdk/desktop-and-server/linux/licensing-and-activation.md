@@ -4,8 +4,6 @@ icon: key
 
 # Licensing & Activation
 
-## **Licensing & Activation**
-
 Activate the ID Document Recognition SDK after completing Installation.
 
 ### **Request a license**

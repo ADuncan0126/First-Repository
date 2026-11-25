@@ -4,8 +4,6 @@ icon: code
 
 # API Reference
 
-## **API Reference**
-
 Extract data from identify document images.
 
 ### <i class="fa-id-card">:id-card:</i> Identify document recognition

@@ -4,8 +4,6 @@ icon: key
 
 # Licensing & Activation
 
-## Licensing & Activation
-
 Activate the Linux SDK after completeting Installation.
 
 ### **1. Request a license**

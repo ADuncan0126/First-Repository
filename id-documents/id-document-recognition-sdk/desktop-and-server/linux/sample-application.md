@@ -6,11 +6,13 @@ icon: play
 
 ## **ID Document Recognition sample application**
 
-Run the ID Document Recognition demo on Ubuntu 22.04 LTS
+Run the ID Document Recognition demo on Ubuntu 22.04 LTS.
 
-### **Before you begin**
+To obtain the demo package, [contact Truverion](../../../../resources-and-support/contact-and-support.md).
 
-Complete Installation and Licensing Activations. Open a terminal in the demo directory.
+### Before you begin
+
+Complete [Installation](installation.md) and [Licensing & Activation](licensing-and-activation.md). Open a terminal in the demo directory.
 
 {% code overflow="wrap" %}
 ```
@@ -19,7 +21,7 @@ chmod +x *.sh
 ```
 {% endcode %}
 
-### **Run the demo**
+### Run the demo
 
 {% tabs %}
 {% tab title="Streamlit" icon="browser" %}

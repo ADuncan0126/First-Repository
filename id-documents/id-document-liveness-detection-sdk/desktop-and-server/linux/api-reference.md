@@ -4,8 +4,6 @@ icon: code
 
 # API Reference
 
-## API Reference
-
 Check a single identify document image for signs of spoofing.
 
 ### <i class="fa-link">:link:</i> E**ndpoints**

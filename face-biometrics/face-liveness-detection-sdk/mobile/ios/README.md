@@ -12,7 +12,7 @@ Test guided capture on supported devices and record technical errors separately 
 
 ### Platform guides
 
-* [installation.md](installation.md "mention")
-* [licensing-and-activation.md](licensing-and-activation.md "mention")
-* [sample-application.md](sample-application.md "mention")
-* [api-reference.md](api-reference.md "mention")
+* [Installation](installation.md)
+* [Licensing & Activation](licensing-and-activation.md)
+* [Sample Application](sample-application.md)
+* [API Reference](api-reference.md)

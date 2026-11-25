@@ -4,8 +4,6 @@ icon: key
 
 # Licensing & Activation
 
-## **Licensing & Activation**
-
 Include the SDK version and intended use in your request.
 
 <a href="../../../../resources-and-support/contact-and-support.md" class="button primary">Contact Truverion for licensing →</a>

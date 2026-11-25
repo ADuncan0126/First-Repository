@@ -4,7 +4,4 @@ icon: server
 
 # Desktop & Server
 
-## ID Document Liveness Detection SDK for Linux
-
-
-
+Use the [Linux guide](linux/README.md) for setup, activation, and a runnable sample on Ubuntu 22.04.

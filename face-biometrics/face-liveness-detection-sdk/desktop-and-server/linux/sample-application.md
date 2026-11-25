@@ -4,15 +4,13 @@ icon: play
 
 # Sample Application
 
-## **Sample Application**
-
 Run the Linux demo to check face liveness from a single image and review the liveness score.
 
 <a href="https://drive.google.com/file/d/1jQHhBssZCnzbcEeBczk03OjLRJOzrhcB/view?usp=sharing" class="button primary">Download the Linux Demo →</a>
 
 ### Before you begin
 
-Complete <mark style="color:$primary;">Installation</mark> and <mark style="color:$primary;">Licensing & Activation.</mark> Open a terminal in the demo directory.
+Complete [Installation](installation.md) and [Licensing & Activation](licensing-and-activation.md). Open a terminal in the demo directory.
 
 {% code overflow="wrap" %}
 ```
@@ -21,7 +19,7 @@ chmod +x *.sh
 ```
 {% endcode %}
 
-### **Run the Demo**
+### Run the Demo
 
 {% tabs %}
 {% tab title="Streamlit" icon="browser" %}

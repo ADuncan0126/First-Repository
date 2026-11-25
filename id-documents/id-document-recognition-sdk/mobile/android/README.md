@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Android
 
 ## ID Document Recognition on Android

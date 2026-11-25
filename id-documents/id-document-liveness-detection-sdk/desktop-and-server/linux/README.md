@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Linux
 
 ## ID Document Liveness Detection SDK for Linux

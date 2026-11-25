@@ -1,3 +1,7 @@
+---
+icon: box
+---
+
 # Installation
 
 ## **Installation**

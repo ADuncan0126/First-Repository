@@ -1,3 +1,7 @@
+---
+icon: layer-group
+---
+
 # Platform Compatibility
 
 ## Platform Compatibility

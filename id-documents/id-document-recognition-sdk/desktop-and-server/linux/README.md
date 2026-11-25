@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Linux
 
 ## **ID Document Recognition on Linux**

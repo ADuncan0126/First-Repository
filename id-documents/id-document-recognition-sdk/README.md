@@ -1,3 +1,7 @@
+---
+icon: id-card
+---
+
 # ID Document Recognition SDK
 
 ## ID Document Recognition SDK

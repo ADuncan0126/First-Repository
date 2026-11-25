@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Performance Overview
 
 ## Face Recognition performance overview

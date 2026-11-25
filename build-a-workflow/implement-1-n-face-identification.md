@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # Implement 1:N Face Identification
 
 ## Implement 1:N Face Identification

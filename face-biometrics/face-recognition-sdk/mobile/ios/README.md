@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # iOS
 
 ## Face Recognition on iOS

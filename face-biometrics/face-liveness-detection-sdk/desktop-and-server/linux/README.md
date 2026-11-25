@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Linux
 
 ## **Face Liveness Detection SDK for Linux**

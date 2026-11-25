@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Android
 
 ## Face Recognition on Android

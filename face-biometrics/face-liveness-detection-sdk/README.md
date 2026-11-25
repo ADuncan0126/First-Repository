@@ -1,3 +1,7 @@
+---
+icon: shield-halved
+---
+
 # Face Liveness Detection SDK
 
 ## Face Liveness Detection SDK

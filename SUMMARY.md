@@ -125,7 +125,3 @@
 * [Release Notes](resources-and-support/release-notes.md)
 * [Troubleshooting](resources-and-support/troubleshooting.md)
 * [Contact & Support](resources-and-support/contact-and-support.md)
-
-***
-
-* [Truverion-Face-Liveness-Detection-Demo.zip](truverion-face-liveness-detection-demo.zip.md)

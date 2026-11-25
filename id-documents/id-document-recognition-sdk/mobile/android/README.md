@@ -4,15 +4,13 @@ icon: mobile-screen
 
 # Android
 
-## ID Document Recognition on Android
+## ID document recognition on Android
 
-Integrate the matching Android package. Confirm camera permission, focus, image orientation, and document edge visibility.
+**ID Scan** captures an ID document with the camera or opens a document photo for recognition. The sample displays extracted results and the portrait when available. Its application ID is `tech.truverion.id.rec`.
 
-Test supported document types using authorized test documents.
+The demo source requires a separately supplied document recognition engine and a matching license.
 
-### Platform guides
-
-* [installation.md](installation.md "mention")
-* [licensing-and-activation.md](licensing-and-activation.md "mention")
-* [sample-application.md](sample-application.md "mention")
-* [api-reference.md](api-reference.md "mention")
+- [Installation](installation.md) for project setup and build requirements.
+- [Licensing & Activation](licensing-and-activation.md) for the application ID and license asset.
+- [Sample Application](sample-application.md) for the camera and photo workflows.
+- [API Reference](api-reference.md) for the calls used by the demo.

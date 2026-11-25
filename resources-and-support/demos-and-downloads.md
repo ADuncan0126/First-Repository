@@ -30,3 +30,13 @@ Obtain native binaries and licensing through the authorized package channel. Do 
 {% endcontent-ref %}
 
 Each demo needs matching native assets and a valid license. Run `./install.sh` once, then start Streamlit with `./run_all.sh -s` and FastAPI separately with `./run_all.sh -f`.
+
+## Android demos
+
+| Project archive | Setup guide |
+| --- | --- |
+| `Truverion-Face-Android-SDK(Core).zip` | [Face Verify](../face-biometrics/face-recognition-sdk/mobile/android/installation.md) |
+| `Truverion-Face-Android-SDK(Pro).zip` | [Face Verify & Analyze](../face-biometrics/face-recognition-sdk/mobile/android/installation.md) |
+| `Truverion-ID-Recognition-Android.zip` | [ID Scan](../id-documents/id-document-recognition-sdk/mobile/android/installation.md) |
+
+Request the project ZIP and matching license through your authorized package channel. The face ZIPs include their edition’s engine. Obtain the ID Scan engine separately and place it at `libidsdk/idsdk.aar`.

@@ -4,15 +4,16 @@ icon: mobile-screen
 
 # Android
 
-## Face Recognition on Android
+## Face recognition on Android
 
-Integrate the Android package for the matching release. Validate camera permission, capture orientation, and lifecycle handling.
+Both Truverion Face editions let you register a face from the camera or a photo and identify it against profiles stored locally on the device.
 
-Run the sample on a supported physical device before production integration.
+| Edition | Launcher name | Application ID | Workflows |
+| --- | --- | --- | --- |
+| Core | Face Verify | `tech.truverion.face.core` | Face recognition and liveness-gated recognition |
+| Pro | Face Verify & Analyze | `tech.truverion.face.pro` | Core workflows plus face analysis |
 
-### Platform guides
-
-* [installation.md](installation.md "mention")
-* [licensing-and-activation.md](licensing-and-activation.md "mention")
-* [sample-application.md](sample-application.md "mention")
-* [api-reference.md](api-reference.md "mention")
+- [Installation](installation.md) for project setup and build requirements.
+- [Licensing & Activation](licensing-and-activation.md) for the application ID and license asset.
+- [Sample Application](sample-application.md) for the camera and photo workflows.
+- [API Reference](api-reference.md) for the calls used by the demo.

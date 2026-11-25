@@ -2,7 +2,7 @@
 
 ## **Sample Application**
 
-Run the Linux demo to compare two face images and review the similarity score.
+Run the Linux demo to check face liveness from a single image and review the liveness score.
 
 <a href="https://drive.google.com/file/d/1jQHhBssZCnzbcEeBczk03OjLRJOzrhcB/view?usp=sharing" class="button primary">Download the Linux Demo →</a>
 

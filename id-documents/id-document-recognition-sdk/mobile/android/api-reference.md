@@ -4,8 +4,13 @@ icon: code
 
 # API Reference
 
-## API Reference
+## Calls used by the Android sample
 
-Use the Android ID Document Recognition API reference included in release materials. It defines capture callbacks, classification, fields, results, and errors.
+| Call | Role in ID Scan |
+| --- | --- |
+| `IDSDK.setActivation(license)` | Activates the engine. Continue when the return code is `SDK_SUCCESS`. |
+| `IDSDK.init(context)` | Initializes the engine after activation. The sample passes its activity. |
+| `IDSDK.yuv2Bitmap(image, width, height, orientation)` | Converts a camera frame to a bitmap. A gallery image can be decoded directly to a bitmap. |
+| `IDSDK.idcardRecognition(bitmap)` | Processes one document image. The app parses the SDK response for document information and available images. |
 
-No public reference is published here. Use the release bundle for exact signatures.
+The Kotlin sample imports `com.bio.idsdk.IDSDK`. Handle unknown documents and recognition errors before displaying extracted results. Use the licensed engine’s release reference for the full response schema and supported document types.

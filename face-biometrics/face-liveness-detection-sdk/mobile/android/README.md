@@ -4,15 +4,16 @@ icon: mobile-screen
 
 # Android
 
-## Face Liveness Detection on Android
+## Face liveness detection on Android
 
-Integrate the matching Android package. Confirm camera permission, preview handling, and lifecycle transitions.
+Both Truverion Face editions offer **Liveness + recognition**. The camera displays a live score when available, and the app requires liveness to pass before it identifies a registered face.
 
-Test guided capture on supported devices and record technical errors separately from policy outcomes.
+| Edition | Launcher name | Application ID | Workflows |
+| --- | --- | --- | --- |
+| Core | Face Verify | `tech.truverion.face.core` | Face recognition and liveness-gated recognition |
+| Pro | Face Verify & Analyze | `tech.truverion.face.pro` | Core workflows plus face analysis |
 
-### Platform guides
-
-* [installation.md](installation.md "mention")
-* [licensing-and-activation.md](licensing-and-activation.md "mention")
-* [sample-application.md](sample-application.md "mention")
-* [api-reference.md](api-reference.md "mention")
+- [Installation](installation.md) for project setup and build requirements.
+- [Licensing & Activation](licensing-and-activation.md) for the application ID and license asset.
+- [Sample Application](sample-application.md) for the camera and photo workflows.
+- [API Reference](api-reference.md) for the calls used by the demo.

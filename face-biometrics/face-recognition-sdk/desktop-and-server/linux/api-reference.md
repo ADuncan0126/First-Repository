@@ -4,8 +4,6 @@ icon: code
 
 # API Reference
 
-## **API Reference**
-
 Compare two images with the Linux demo API.
 
 ### <i class="fa-link">:link:</i> **Endpoints**

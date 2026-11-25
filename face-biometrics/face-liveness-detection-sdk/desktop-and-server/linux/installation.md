@@ -4,8 +4,6 @@ icon: box
 
 # Installation
 
-## **Installation**
-
 Install the Face Liveness Detection SDK demo on Ubuntu 22.04 LTS.g
 
 {% embed url="https://drive.google.com/file/d/1jQHhBssZCnzbcEeBczk03OjLRJOzrhcB/view?usp=sharing" %}

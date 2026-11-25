@@ -4,8 +4,6 @@ icon: code
 
 # API Reference
 
-## **API Reference**
-
 Check face liveness from a single image.
 
 ### <i class="fa-link">:link:</i> **Endpoints**

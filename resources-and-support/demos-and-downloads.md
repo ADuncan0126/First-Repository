@@ -5,13 +5,9 @@ description: Run local Truverion samples for each SDK workflow.
 
 # Demos & Downloads
 
-## Demos & Downloads
+## Linux demos
 
-Use the authorized Linux bundles for the local samples:
-
-The bundles are `Truverion-Face-Recognition`, `Truverion-Face-Liveness`, `Truverion-ID-Document-Recognition`, and `Truverion-ID-Document-Liveness`.
-
-Obtain native binaries and licensing through the authorized package channel. Do not share private archives or invent download URLs.
+Choose one of the four Ubuntu 22.04 sample guides below. Each guide explains what the demo does and how to run its Streamlit or FastAPI interface. If you need a package, an engine, or a license, [contact Truverion](contact-and-support.md).
 
 {% content-ref url="../face-biometrics/face-recognition-sdk/desktop-and-server/linux/sample-application.md" %}
 [sample-application.md](../face-biometrics/face-recognition-sdk/desktop-and-server/linux/sample-application.md)

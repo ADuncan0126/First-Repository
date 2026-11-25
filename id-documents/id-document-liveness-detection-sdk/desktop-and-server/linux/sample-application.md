@@ -10,11 +10,11 @@ Run the Linux demo to check an ID document image and review the liveness result.
 
 <a href="https://drive.google.com/file/d/1h3wTWf0ujf6sJPvcQDIQ97qbwW0CIAlJ/view?usp=sharing" class="button primary">Download the Linux Demo →</a>
 
-### **Before you begin**
+### Before you begin
 
 Complete <mark style="color:$primary;">installation</mark> and <mark style="color:$primary;">Licensing & Activation</mark>. Open a terminal in the demo direcotory.
 
-### **Run the demo**
+### Run the demo
 
 {% tabs %}
 {% tab title="Streamlit" icon="browser" %}

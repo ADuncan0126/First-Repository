@@ -18,3 +18,7 @@ Choose a sample for Ubuntu 22.04 with a Streamlit interface or a FastAPI service
 ## Plan your integration
 
 Check [Platform Compatibility](get-started/platform-compatibility.md) to find the documented targets. Use the release materials for your SDK package to confirm supported versions, API signatures, and licensing requirements.
+
+## Get help
+
+See [Troubleshooting](resources-and-support/troubleshooting.md) for common errors or [Contact & Support](resources-and-support/contact-and-support.md) for package, licensing, and integration questions.

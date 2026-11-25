@@ -4,8 +4,6 @@ icon: box
 
 # Installation
 
-## **Installation**
-
 Install the ID Document Recognition SDK demo on Ubuntu 22.04 LTS
 
 {% embed url="https://drive.google.com/file/d/1a649A0x754oN7SQ3qESYLJCkRbT4EmlA/view?usp=sharing" %}

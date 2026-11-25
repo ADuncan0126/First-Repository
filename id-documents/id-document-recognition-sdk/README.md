@@ -4,8 +4,6 @@ icon: id-card
 
 # ID Document Recognition SDK
 
-## ID Document Recognition SDK
-
 Use this Linux SDK to read supported document, card, and barcode inputs.
 
 ### Start here

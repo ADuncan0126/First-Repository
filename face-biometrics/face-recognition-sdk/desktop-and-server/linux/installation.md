@@ -4,8 +4,6 @@ icon: box
 
 # Installation
 
-## **Installation**
-
 Install the Face Recognition SDK demo on Ubuntu.
 
 {% embed url="https://drive.google.com/file/d/1wYg0n7q7mqkXGTgZkhw9XR-dXGjTPRJ1/view?usp=sharing" %}

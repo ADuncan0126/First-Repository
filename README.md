@@ -1,4 +1,5 @@
 ---
+icon: house
 description: Developer guides and Linux demos for Truverion face and ID document SDKs.
 ---
 

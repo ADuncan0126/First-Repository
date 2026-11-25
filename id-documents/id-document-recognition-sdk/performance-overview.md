@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Performance Overview
 
 ## ID Document Recognition performance overview

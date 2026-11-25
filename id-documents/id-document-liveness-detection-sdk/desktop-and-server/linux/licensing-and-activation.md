@@ -1,3 +1,7 @@
+---
+icon: key
+---
+
 # Licensing & Activation
 
 ## **Licensing & Activation**

@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # Desktop & Server
 
 ## Desktop & Server

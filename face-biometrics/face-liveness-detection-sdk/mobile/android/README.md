@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Android
 
 ## Face Liveness Detection on Android

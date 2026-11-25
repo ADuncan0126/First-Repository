@@ -1,4 +1,5 @@
 ---
+icon: download
 description: Run local Truverion samples for each SDK workflow.
 ---
 

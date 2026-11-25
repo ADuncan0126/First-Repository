@@ -1,3 +1,7 @@
+---
+icon: user
+---
+
 # Face Recognition SDK
 
 ## Face Recognition SDK

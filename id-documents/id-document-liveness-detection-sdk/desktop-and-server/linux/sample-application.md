@@ -1,3 +1,7 @@
+---
+icon: play
+---
+
 # Sample Application
 
 ## ID Document Liveness sample application

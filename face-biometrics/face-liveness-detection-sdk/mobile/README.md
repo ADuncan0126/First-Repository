@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Mobile
 
 ## Mobile

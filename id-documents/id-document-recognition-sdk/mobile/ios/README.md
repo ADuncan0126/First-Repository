@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # iOS
 
 ## ID Document Recognition on iOS

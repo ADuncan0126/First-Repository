@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Performance Overview
 
 ## ID Document Liveness Detection performance overview

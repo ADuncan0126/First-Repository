@@ -1,3 +1,7 @@
+---
+icon: clipboard-list
+---
+
 # Release Notes
 
 ## Release Notes

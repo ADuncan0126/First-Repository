@@ -1,3 +1,7 @@
+---
+icon: user-check
+---
+
 # Match a Selfie to an ID Portrait
 
 ## Match a Selfie to an ID Portrait

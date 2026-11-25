@@ -1,3 +1,7 @@
+---
+icon: play
+---
+
 # Sample Application
 
 ## Sample Application

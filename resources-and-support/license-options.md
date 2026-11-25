@@ -1,3 +1,7 @@
+---
+icon: key
+---
+
 # License Options
 
 ## License Options

@@ -1,3 +1,7 @@
+---
+icon: play
+---
+
 # Sample Application
 
 ## **ID Document Recognition sample application**

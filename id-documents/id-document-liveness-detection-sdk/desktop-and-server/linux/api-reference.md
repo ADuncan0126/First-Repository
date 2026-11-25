@@ -1,3 +1,7 @@
+---
+icon: code
+---
+
 # API Reference
 
 ## API Reference

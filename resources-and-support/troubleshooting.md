@@ -1,3 +1,7 @@
+---
+icon: wrench
+---
+
 # Troubleshooting
 
 ## Troubleshooting

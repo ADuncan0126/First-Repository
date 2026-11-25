@@ -1,3 +1,7 @@
+---
+icon: file-lines
+---
+
 # Supported Documents
 
 ## Supported Documents

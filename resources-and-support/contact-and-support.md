@@ -1,3 +1,7 @@
+---
+icon: comments
+---
+
 # Contact & Support
 
 ## Support

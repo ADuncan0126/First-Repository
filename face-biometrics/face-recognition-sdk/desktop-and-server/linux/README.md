@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Linux
 
 ## **Face Recognition SDK for Linux**

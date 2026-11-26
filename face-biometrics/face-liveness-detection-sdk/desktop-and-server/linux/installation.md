@@ -4,7 +4,7 @@ icon: box
 
 # Installation
 
-Install the Face Liveness Detection SDK demo on Ubuntu 22.04 LTS.g
+Install the Face Liveness Detection SDK demo on Ubuntu 22.04 LTS.
 
 {% embed url="https://drive.google.com/file/d/1jQHhBssZCnzbcEeBczk03OjLRJOzrhcB/view?usp=sharing" %}
 
@@ -12,7 +12,7 @@ Install the Face Liveness Detection SDK demo on Ubuntu 22.04 LTS.g
 
 Extract the demo archive. Copy the SDK's engine/ and dependency/ folders into the demo directory.
 
-<table><thead><tr><th width="318">Path</th><th>Purpsoe</th></tr></thead><tbody><tr><td>engine/header.py</td><td>Python interface</td></tr><tr><td>engine/bin/</td><td>SDK engine files</td></tr><tr><td>dependency/libmutils.so_for_ubuntu22</td><td>Ubuntu 22.04 runtime library</td></tr><tr><td>dependency/openvino/</td><td>Runtime libraries, when included</td></tr></tbody></table>
+<table><thead><tr><th width="318">Path</th><th>Purpose</th></tr></thead><tbody><tr><td>engine/header.py</td><td>Python interface</td></tr><tr><td>engine/bin/</td><td>SDK engine files</td></tr><tr><td>dependency/libmutils.so_for_ubuntu22</td><td>Ubuntu 22.04 runtime library</td></tr><tr><td>dependency/openvino/</td><td>Runtime libraries, when included</td></tr></tbody></table>
 
 ### **Install dependencies**
 
@@ -36,3 +36,7 @@ The installer creates .venv and installs the demo dependencies.<br>
 {% hint style="info" %}
 **Expected output:** No broken requirments found.
 {% endhint %}
+
+## <i class="fa-key">:key:</i> Continue to activation
+
+After the dependencies install, complete [Licensing & Activation](licensing-and-activation.md), then start the [sample application](sample-application.md). If the engine fails to load, check [Troubleshooting](../../../../resources-and-support/troubleshooting.md) for architecture and native-library checks.

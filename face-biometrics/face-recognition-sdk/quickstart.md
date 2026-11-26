@@ -10,3 +10,7 @@ icon: bolt
 4. Detect a face, create templates, then compare or search.
 
 Expect a usable face before template creation or matching. Reject missing or low-quality faces before matching. Exact initialization calls require release materials.
+
+## <i class="fa-play">:play:</i> Run a real comparison
+
+Use the [Linux demo](desktop-and-server/linux/sample-application.md) to compare an approved same-person pair and a different-person pair. For an app build, follow the [Android sample](mobile/android/sample-application.md).

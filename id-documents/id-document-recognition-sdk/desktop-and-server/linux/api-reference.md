@@ -4,11 +4,11 @@ icon: code
 
 # API Reference
 
-Extract data from identify document images.
+Extract data from identity document images.
 
-### <i class="fa-id-card">:id-card:</i> Identify document recognition
+### <i class="fa-id-card">:id-card:</i> identity document recognition
 
-Submit fron and back images to read an identify document.
+Submit fron and back images to read an identity document.
 
 {% hint style="info" %}
 **Default limit:** 15MB per image.
@@ -44,7 +44,7 @@ Send application/json with Base64-encoded `image` (required) and `image2` (optio
 
 ### <i class="fa-triangle-exclamation">:triangle-exclamation:</i> **Errors**
 
-<table><thead><tr><th width="154">HTTP Status</th><th>Description</th></tr></thead><tbody><tr><td><code>400</code></td><td>Invalid input.</td></tr><tr><td><code>413</code></td><td>Image exceeds size limit.</td></tr><tr><td><code>422</code></td><td>Request validation failed.</td></tr><tr><td><code>500</code></td><td>Recogniton error.</td></tr><tr><td><code>503</code></td><td>SDK or activation error.</td></tr></tbody></table>
+<table><thead><tr><th width="154">HTTP Status</th><th>Description</th></tr></thead><tbody><tr><td><code>400</code></td><td>Invalid input.</td></tr><tr><td><code>413</code></td><td>Image exceeds size limit.</td></tr><tr><td><code>422</code></td><td>Request validation failed.</td></tr><tr><td><code>500</code></td><td>Recognition error.</td></tr><tr><td><code>503</code></td><td>SDK or activation error.</td></tr></tbody></table>
 
 ### <i class="fa-link">:link:</i> Additional e**ndpoints**
 
@@ -52,3 +52,7 @@ Send application/json with Base64-encoded `image` (required) and `image2` (optio
 | ---------------- | ------------------ | -------------------------- |
 | Payment card OCR | /api/read\_credit  | /api/read\_credit\_base64  |
 | Barcode reading  | /api/read\_barcode | /api/read\_barcode\_base64 |
+
+## <i class="fa-play">:play:</i> Try the API
+
+Start FastAPI from the [sample guide](sample-application.md) and use the URL printed by the launcher. Check service readiness first, then submit an authorized sample. Use a sample document with clear edges and readable text.

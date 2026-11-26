@@ -6,7 +6,7 @@ icon: terminal
 
 ## ID Document Liveness Detection SDK for Linux
 
-Analyze one identify document image for signs of a presentation attack.
+Analyze one identity document image for signs of a presentation attack.
 
 ### **SDK capabilities**
 
@@ -26,3 +26,7 @@ The Streamlit demo reports processing time separately from model initialization.
 ### Recommended system configuration
 
 <table><thead><tr><th width="280">Component</th><th>Configuration</th></tr></thead><tbody><tr><td>Operating system</td><td>Ubuntu 22.04 LTS</td></tr><tr><td>CPU</td><td>8 cores</td></tr><tr><td>Memory</td><td>8 GB RAM</td></tr><tr><td>Storage</td><td>8 GB</td></tr></tbody></table>
+
+## <i class="fa-play">:play:</i> Run a first check
+
+Complete [Installation](installation.md) and [Licensing & Activation](licensing-and-activation.md), then open the [sample application](sample-application.md). Expect a document liveness assessment when the image can be processed. Use the [API reference](api-reference.md) to repeat the same check from a client.

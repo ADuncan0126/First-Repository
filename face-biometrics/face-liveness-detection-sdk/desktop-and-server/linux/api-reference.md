@@ -10,9 +10,9 @@ Check face liveness from a single image.
 
 <table><thead><tr><th width="88">Method</th><th width="260">Endpoint</th><th>Description</th></tr></thead><tbody><tr><td><code>GET</code></td><td>/health</td><td>SDK metadata</td></tr><tr><td><code>POST</code></td><td>/api/check_liveness</td><td>File upload</td></tr><tr><td><code>POST</code></td><td>/api/check_liveness_base64</td><td>Base64 JSON</td></tr></tbody></table>
 
-### <i class="fa-image">:image:</i> **Compare images**
+### <i class="fa-image">:image:</i> **Check face liveness**
 
-Use the Linux demo API to compare two face images and get a similarity score.
+Submit one face image and review the liveness result and score.
 
 {% tabs %}
 {% tab title="File Upload" icon="upload" %}
@@ -35,7 +35,7 @@ Maximum 15MB and 25 megapixels.
 ```
 {% endcode %}
 
-Use raw Base64or a data URL. The threshold is optional.
+Use raw Base64 or a data URL. The threshold is optional.
 
 {% hint style="info" %}
 Maximum 15MB and 25 megapixels.
@@ -53,3 +53,6 @@ The API may return the following error responses.
 
 <table><thead><tr><th width="128">HTTP Status</th><th>Description</th></tr></thead><tbody><tr><td> <mark style="color:red;background-color:$danger;">400</mark> </td><td>Invalid input</td></tr><tr><td> <mark style="color:red;background-color:$danger;">413</mark> </td><td>Image exceeds byte limit</td></tr><tr><td> <mark style="color:red;background-color:$danger;">422</mark> </td><td>Request validation failed</td></tr><tr><td> <mark style="color:red;background-color:$danger;">503</mark> </td><td>SDK or activation error</td></tr></tbody></table>
 
+## <i class="fa-play">:play:</i> Try the API
+
+Start FastAPI from the [sample guide](sample-application.md) and use the URL printed by the launcher. Check service readiness first, then submit an authorized sample. Ask for a new capture if the face is obscured or missing.

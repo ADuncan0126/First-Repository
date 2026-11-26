@@ -22,3 +22,7 @@ Check [Platform Compatibility](get-started/platform-compatibility.md) to find th
 ## Get help
 
 See [Troubleshooting](resources-and-support/troubleshooting.md) for common errors or [Contact & Support](resources-and-support/contact-and-support.md) for package, licensing, and integration questions.
+
+## <i class="fa-mobile-screen">:mobile-screen:</i> Run an Android demo
+
+Use [Face Verify and Face Verify & Analyze](face-biometrics/face-recognition-sdk/mobile/android/sample-application.md) for recognition and liveness, or [ID Scan](id-documents/id-document-recognition-sdk/mobile/android/sample-application.md) for document recognition. See [Demos & Downloads](resources-and-support/demos-and-downloads.md) for package access.

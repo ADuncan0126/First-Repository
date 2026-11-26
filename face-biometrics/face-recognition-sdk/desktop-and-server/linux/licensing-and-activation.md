@@ -56,3 +56,7 @@ Run a standalone SDK smoke test. Check initialization  successeds, then extract 
 ### **Troubleshooting**
 
 <table><thead><tr><th width="247">Symptom</th><th>What to check</th></tr></thead><tbody><tr><td>Key missing</td><td>Set it in the current shell</td></tr><tr><td>File missing</td><td>Check the path and read permissions</td></tr><tr><td>Hardware ID mismatch</td><td>Check the ID on the target host</td></tr></tbody></table>
+
+## <i class="fa-circle-check">:circle-check:</i> Verify activation
+
+Start the [sample](sample-application.md), then submit an authorized fixture. Confirm that the engine returns a usable result before integrating it. If initialization fails, check the package version and activation method and share the error code through [Contact & Support](../../../../resources-and-support/contact-and-support.md).

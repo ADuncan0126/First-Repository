@@ -22,3 +22,7 @@ Include the SDK name and edition, target platform, and the package or workflow y
 Include the SDK or demo version, operating system and device or architecture, steps to reproduce, the expected result, and the actual result. If available, include the error code and a short, redacted log excerpt.
 
 Remove license keys, biometric templates, face or document images, and personal data before sending diagnostics. Check [Troubleshooting](troubleshooting.md) for common setup and runtime errors.
+
+## <i class="fa-book-open">:book-open:</i> Find the matching guide
+
+Start with [Demos & Downloads](demos-and-downloads.md) for the project’s setup steps or [Platform Compatibility](../get-started/platform-compatibility.md) to check which demo is documented for your platform.

@@ -29,3 +29,6 @@ chmod +x *.sh
 
 <mark style="color:$primary;">Run a standalone SDK smoke test from the command line. Initialize the SDK, extract a template from an approved single-face image, and confirm the template contains 512 float32 values.</mark>
 
+## <i class="fa-key">:key:</i> Continue to activation
+
+After the dependencies install, complete [Licensing & Activation](licensing-and-activation.md), then start the [sample application](sample-application.md). If the engine fails to load, check [Troubleshooting](../../../../resources-and-support/troubleshooting.md) for architecture and native-library checks.

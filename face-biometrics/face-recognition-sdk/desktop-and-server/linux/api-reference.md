@@ -54,3 +54,6 @@ The API may return the following error responses.
 
 <table><thead><tr><th width="128">HTTP Status</th><th>Description</th></tr></thead><tbody><tr><td> <mark style="color:red;background-color:$danger;">413</mark> </td><td><strong>File upload</strong> limit exceeded.</td></tr><tr><td> <mark style="color:red;background-color:$danger;">422</mark> </td><td><strong>Invalid input.</strong> Missing, empty, or unsupported image data.</td></tr><tr><td> <mark style="color:red;background-color:$danger;">503</mark> </td><td><strong>SDK unavailable.</strong> The face recognition SDK is not available or not initialized.</td></tr></tbody></table>
 
+## <i class="fa-play">:play:</i> Try the API
+
+Start FastAPI from the [sample guide](sample-application.md) and use the URL printed by the launcher. Check service readiness first, then submit an authorized sample. Check each input for one usable face.

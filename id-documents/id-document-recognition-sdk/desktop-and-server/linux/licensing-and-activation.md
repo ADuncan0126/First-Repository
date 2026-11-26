@@ -55,3 +55,7 @@ In FastAPI, send a sample recognition request, then check `GET /health` for `rea
 ### **Troubleshooting**
 
 <table><thead><tr><th width="271">Symptom</th><th>What to check</th></tr></thead><tbody><tr><td><strong>No license configured</strong></td><td>Check <code>LICENSE_KEY</code> or <code>license.txt</code>.</td></tr><tr><td><strong>License activation failed</strong></td><td>Verify the license and record the SDK error code.</td></tr><tr><td><strong>SDK initialization failed</strong></td><td>Check <code>engine/bin/</code> and the native libraries.</td></tr></tbody></table>
+
+## <i class="fa-circle-check">:circle-check:</i> Verify activation
+
+Start the [sample](sample-application.md), then submit an authorized fixture. Confirm that the engine returns a usable result before integrating it. If initialization fails, check the package version and activation method and share the error code through [Contact & Support](../../../../resources-and-support/contact-and-support.md).

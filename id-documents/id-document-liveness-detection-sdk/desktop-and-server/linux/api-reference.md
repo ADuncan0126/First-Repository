@@ -4,7 +4,7 @@ icon: code
 
 # API Reference
 
-Check a single identify document image for signs of spoofing.
+Check a single identity document image for signs of spoofing.
 
 ### <i class="fa-link">:link:</i> E**ndpoints**
 
@@ -55,3 +55,6 @@ Any score below the threshold produces a spoof result.
 
 <table><thead><tr><th width="145">HTTP Status</th><th>Description</th></tr></thead><tbody><tr><td> <mark style="color:$danger;background-color:$danger;">413</mark> </td><td>Image exceeds the byte limit.</td></tr><tr><td> <mark style="color:$danger;background-color:$danger;">415</mark> </td><td>Unsupported upload content type.</td></tr><tr><td> <mark style="color:$danger;background-color:$danger;">422</mark> </td><td>Request validation failed, image is empty, or Base64 is invalid</td></tr><tr><td> <mark style="color:$danger;background-color:$danger;">503</mark> </td><td>SDK or worker error, including image decoding or unreadable documents.</td></tr></tbody></table>
 
+## <i class="fa-play">:play:</i> Try the API
+
+Start FastAPI from the [sample guide](sample-application.md) and use the URL printed by the launcher. Check service readiness first, then submit an authorized sample. Use a sharp image with the entire document visible.

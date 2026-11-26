@@ -31,3 +31,7 @@ When both are configured, the demo tries LICENSE\_KEY first.
 ### **Troubleshooting**
 
 <table><thead><tr><th width="237">Symptom</th><th>What to check</th></tr></thead><tbody><tr><td><strong>Licensing missing</strong></td><td>Check that <code>license.txt</code> is next to <code>run_all.sh</code>.</td></tr><tr><td><strong>Activation failed</strong></td><td>Verify the issued license and native dependencies.</td></tr><tr><td><strong>Initilization failed</strong></td><td>Check the model files in <code>engine/model/</code>.</td></tr></tbody></table>
+
+## <i class="fa-circle-check">:circle-check:</i> Verify activation
+
+Start the [sample](sample-application.md), then submit an authorized fixture. Confirm that the engine returns a usable result before integrating it. If initialization fails, check the package version and activation method and share the error code through [Contact & Support](../../../../resources-and-support/contact-and-support.md).

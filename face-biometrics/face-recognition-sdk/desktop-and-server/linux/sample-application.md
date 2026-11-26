@@ -33,9 +33,9 @@ chmod +x *.sh
 2. Select a reference image and a comparison image.
 3. Run the comparison and review the similarity score and math result.
 
-<figure><img src="../../../../.gitbook/assets/1_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1_1.jpg" alt="Face Recognition Streamlit demo"><figcaption>Face Recognition Streamlit demo.</figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/1_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1_2.jpg" alt="Face Recognition demo walkthrough screenshot 2"><figcaption>Face Recognition demo walkthrough screenshot 2.</figcaption></figure>
 {% endtab %}
 
 {% tab title="FastAPI" icon="bolt" %}
@@ -49,9 +49,10 @@ chmod +x *.sh
 2. In Postman, open the face comparison and attach both image as from-data files.
 3. Send the request and review the math result and similarity score
 
-<figure><img src="../../../../.gitbook/assets/1_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1_3.jpg" alt="Face Recognition demo walkthrough screenshot 3"><figcaption>Face Recognition demo walkthrough screenshot 3.</figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
+## <i class="fa-circle-check">:circle-check:</i> Check the result
 
-
+Expect a similarity score and comparison outcome. Check each input for one usable face. For the request fields and error responses, see the [API reference](api-reference.md).

@@ -40,3 +40,6 @@ chmod +x *.sh
 
 <table><thead><tr><th width="231">Symptom</th><th>What to check</th></tr></thead><tbody><tr><td><strong>Missing SDK path</strong></td><td>Check engine/ and dependency/ beside install.sh</td></tr><tr><td><strong>Missing libttvcore.so</strong></td><td>Keep the matching library under dependency/ or engine/</td></tr><tr><td><strong>Missing libcrypto.so.1.1</strong></td><td>Use the matching SDK runtime dependency/</td></tr></tbody></table>
 
+## <i class="fa-key">:key:</i> Continue to activation
+
+After the dependencies install, complete [Licensing & Activation](licensing-and-activation.md), then start the [sample application](sample-application.md). If the engine fails to load, check [Troubleshooting](../../../../resources-and-support/troubleshooting.md) for architecture and native-library checks.

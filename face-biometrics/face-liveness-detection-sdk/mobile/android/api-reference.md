@@ -18,3 +18,7 @@ icon: code
 The Kotlin samples import `com.bio.facesdk.FaceSDK` and `com.bio.facesdk.FaceDetectionParam`. Require one usable face for enrollment. The demo checks the liveness score against its configured threshold before template comparison. Treat recapture, failure to match, and SDK errors as separate outcomes.
 
 Use the selected engine’s release reference for additional parameters and return codes.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Test the call sequence
+
+Run the sample with one usable input and one unusable input. Confirm the app handles processing errors separately from recognition results. [Sample Application](sample-application.md).

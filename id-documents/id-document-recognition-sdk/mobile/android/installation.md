@@ -23,3 +23,7 @@ If Gradle 7.5 times out on first sync, check access to the Gradle distribution U
 ## Integrate the SDK into another project
 
 Add the matching local `libidsdk` module and declare it in your app dependencies as `implementation project(':libidsdk')`. Mirror the demo’s camera permission and runtime permission handling if you use live capture, and [activate the SDK](licensing-and-activation.md) before processing inputs.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Verify your build
+
+Launch the app on the phone and check SDK status. Once it is ready, run the sample workflow. [Sample Application](sample-application.md).

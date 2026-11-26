@@ -17,3 +17,7 @@ Both Truverion Face editions offer **Liveness + recognition**. The camera displa
 - [Licensing & Activation](licensing-and-activation.md) for the application ID and license asset.
 - [Sample Application](sample-application.md) for the camera and photo workflows.
 - [API Reference](api-reference.md) for the calls used by the demo.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Run the Android sample
+
+Use the sample to assess liveness from one face image. [Sample Application](sample-application.md).

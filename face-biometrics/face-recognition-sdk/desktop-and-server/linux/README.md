@@ -29,3 +29,7 @@ Install the SDK, run the Linux demo, and validate API calls before integration.
 ### **Recommended system configuration**
 
 <table><thead><tr><th width="196">Component</th><th>Configuration</th></tr></thead><tbody><tr><td><strong>Operating system</strong></td><td>Ubuntu 22.04 LTS</td></tr><tr><td><strong>CPU</strong></td><td>8 cores</td></tr><tr><td><strong>Memory</strong></td><td>8 GB RAM</td></tr><tr><td><strong>Storage</strong></td><td>8 GB</td></tr></tbody></table>
+
+## <i class="fa-play">:play:</i> Run a first check
+
+Complete [Installation](installation.md) and [Licensing & Activation](licensing-and-activation.md), then open the [sample application](sample-application.md). Expect a similarity score and comparison outcome. Use the [API reference](api-reference.md) to repeat the same check from a client.

@@ -56,3 +56,6 @@ This check run without launching Streamlit or FastAPI.
 
 <table><thead><tr><th width="247">Symptom</th><th>What to check</th></tr></thead><tbody><tr><td>Import fails</td><td>SDK files and runtime libraries</td></tr><tr><td>Online activation fails</td><td><code>FL_LICENSE_KEY</code> in the current terminal</td></tr><tr><td>Offline activation fails</td><td><code>license.txt</code> location and read permissions</td></tr></tbody></table>
 
+## <i class="fa-circle-check">:circle-check:</i> Verify activation
+
+Start the [sample](sample-application.md), then submit an authorized fixture. Confirm that the engine returns a usable result before integrating it. If initialization fails, check the package version and activation method and share the error code through [Contact & Support](../../../../resources-and-support/contact-and-support.md).

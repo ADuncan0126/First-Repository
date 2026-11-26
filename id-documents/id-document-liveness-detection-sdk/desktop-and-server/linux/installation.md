@@ -45,3 +45,7 @@ python3 -c "import cv2, streamlit, fastapi; import engine.header; print('Imports
 {% hint style="info" %}
 **Expected output:** Imports OK
 {% endhint %}
+
+## <i class="fa-key">:key:</i> Continue to activation
+
+After the dependencies install, complete [Licensing & Activation](licensing-and-activation.md), then start the [sample application](sample-application.md). If the engine fails to load, check [Troubleshooting](../../../../resources-and-support/troubleshooting.md) for architecture and native-library checks.

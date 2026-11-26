@@ -4,8 +4,17 @@ icon: user
 
 # Face Recognition SDK
 
-Use this Linux SDK for face detection and 1:1 face comparison.
+Use this SDK to compare two face images. Expect a similarity score and comparison outcome when the input can be processed.
 
-### Start here
+![Capture two faces, then compare images, then review similarity.](../../.gitbook/assets/face-recognition-sdk-workflow.svg)
 
-Follow Linux setup, run the sample, then use the REST interface. Templates are sensitive data. This demo does not expose 1:N identification.
+## <i class="fa-compass">:compass:</i> Choose a starting point
+
+| Goal | Start here |
+| --- | --- |
+| Run the Linux demo | [Install the demo](desktop-and-server/linux/installation.md) and [run a sample](desktop-and-server/linux/sample-application.md) |
+| Integrate with FastAPI | [Read the API reference](desktop-and-server/linux/api-reference.md) |
+| Build a mobile sample | [Android](mobile/android/README.md) · [iOS package guidance](mobile/ios/README.md) |
+| Evaluate the output | [See the evaluation guide](performance-overview.md) |
+
+For a gallery search, see [Implement 1:N Face Identification](../../build-a-workflow/implement-1-n-face-identification.md).

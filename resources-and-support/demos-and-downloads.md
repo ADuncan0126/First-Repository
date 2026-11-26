@@ -36,3 +36,7 @@ Each demo needs matching native assets and a valid license. Run `./install.sh` o
 | `Truverion-ID-Recognition-Android.zip` | [ID Scan](../id-documents/id-document-recognition-sdk/mobile/android/installation.md) |
 
 Request the project ZIP and matching license through your authorized package channel. The face ZIPs include their edition’s engine. Obtain the ID Scan engine separately and place it at `libidsdk/idsdk.aar`.
+
+## <i class="fa-users">:users:</i> Face Identification demo
+
+For gallery search, follow [Implement 1:N Face Identification](../build-a-workflow/implement-1-n-face-identification.md). It covers the separate Ubuntu demo and its Streamlit and FastAPI interfaces.

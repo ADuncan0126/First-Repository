@@ -13,3 +13,7 @@ Follow [Installation](installation.md) and [Licensing & Activation](licensing-an
 3. Review the recognized document information in the result screen. Check the portrait view when the engine returns a portrait. Try a clearer capture if recognition returns an unknown document or incomplete fields.
 
 The project ZIP contains the demo source. Obtain the licensed `idsdk.aar` and the license for `tech.truverion.id.rec` through your authorized package channel.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Connect the demo to your integration
+
+Use the API reference to trace which calls produce the result on the demo screen. [API Reference](api-reference.md).

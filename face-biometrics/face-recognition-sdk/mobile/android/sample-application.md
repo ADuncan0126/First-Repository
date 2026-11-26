@@ -17,3 +17,7 @@ Follow [Installation](installation.md) and [Licensing & Activation](licensing-an
 4. On **Pro**, open **Face analysis** to inspect the additional attributes available from a camera capture or photo.
 
 Obtain the Core or Pro project ZIP through your authorized package channel. Each archive includes its edition’s face engine and requires its own license.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Connect the demo to your integration
+
+Use the API reference to trace which calls produce the result on the demo screen. [API Reference](api-reference.md).

@@ -18,3 +18,7 @@ icon: code
 The Kotlin samples import `com.bio.facesdk.FaceSDK` and `com.bio.facesdk.FaceDetectionParam`. Require one usable face for enrollment. The recognition flow compares the captured template with locally enrolled templates. Pro also returns additional face attributes in its analysis flow, including estimated age and head pose.
 
 Use the selected engine’s release reference for additional parameters and return codes.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Test the call sequence
+
+Run the sample with one usable input and one unusable input. Confirm the app handles processing errors separately from recognition results. [Sample Application](sample-application.md).

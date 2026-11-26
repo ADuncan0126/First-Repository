@@ -16,3 +16,7 @@ icon: wrench
 `/health` reports configuration, not successful inference. For ID Document Liveness, allow cold start and retry a failed worker once with an approved fixture.
 
 If the issue persists, see [Contact & Support](contact-and-support.md) for what to include in a report.
+
+## <i class="fa-list-check">:list-check:</i> Identify where the failure starts
+
+Check installation, activation, and inference in that order. Run a known-good test input after the app or service reports ready. Include the first failing step and error code in your support request.

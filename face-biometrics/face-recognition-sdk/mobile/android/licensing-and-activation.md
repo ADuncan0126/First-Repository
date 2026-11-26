@@ -22,3 +22,7 @@ Save the license as `app/src/main/assets/license` with no extension, then rebuil
 | Activation succeeds but initialization fails | Check the engine file, its assets, and device ABI. Use the initialization code shown by the app when requesting support. |
 
 Keep license files and activation values out of public repositories and logs.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Verify your license
+
+Check that the home screen reports the SDK ready after rebuilding. Run one authorized sample before integrating. [Sample Application](sample-application.md).

@@ -14,3 +14,7 @@ icon: layer-group
 Android samples target physical ARM devices running Android 7.0 or newer. The face projects use SDK Platform 33, and ID Scan uses SDK Platform 34. ID Scan requires a separate licensed engine.
 
 Use native assets matching the package architecture and operating-system release. Use vendor-compatible OpenSSL libraries for Linux demos. Use the release materials to confirm availability for other integration targets.
+
+## <i class="fa-play">:play:</i> Pick an installation guide
+
+Start from [Demos & Downloads](../resources-and-support/demos-and-downloads.md) to find a sample for the platform and SDK you need. For iOS, confirm the licensed package and device requirements before setting up Xcode.

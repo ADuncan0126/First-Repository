@@ -17,3 +17,7 @@ Both Truverion Face editions let you register a face from the camera or a photo 
 - [Licensing & Activation](licensing-and-activation.md) for the application ID and license asset.
 - [Sample Application](sample-application.md) for the camera and photo workflows.
 - [API Reference](api-reference.md) for the calls used by the demo.
+
+## <i class="fa-arrow-right">:arrow-right:</i> Run the Android sample
+
+Use the sample to compare two face images. [Sample Application](sample-application.md).

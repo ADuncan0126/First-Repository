@@ -9,9 +9,9 @@ Contact Truverion for help choosing an SDK, obtaining a demo package or license,
 
 | Channel | Contact |
 | --- | --- |
-| Email | [contact@truverion.tech](mailto:contact@truverion.tech) |
-| Telegram | [@truverion](https://t.me/truverion) |
-| WhatsApp | [+1 (706) 254-1372](https://wa.me/17062541372) |
+| <i class="fa-envelope">envelope</i> Email | [contact@truverion.tech](mailto:contact@truverion.tech) |
+| <i class="fa-telegram">telegram</i> Telegram | [@truverion](https://t.me/truverion) |
+| <i class="fa-whatsapp">whatsapp</i> WhatsApp | [+1 (706) 254-1372](https://wa.me/17062541372) |
 
 ## Request a package or license
 

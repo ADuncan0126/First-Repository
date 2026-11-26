@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-label="Selfie and fictional document portrait feed a one-to-one comparison" font-family="Arial,sans-serif"><rect width="800" height="300" rx="24" fill="#eef4fb"/><rect x="34" y="28" width="269" height="150" rx="16" fill="#fff"/><rect x="497" y="28" width="269" height="150" rx="16" fill="#fff"/>
+<text x="168" y="57" text-anchor="middle" fill="#142b47" font-size="20" font-weight="700">Live selfie</text><text x="632" y="57" text-anchor="middle" fill="#142b47" font-size="20" font-weight="700">ID document image</text>
+<rect x="116" y="69" width="105" height="96" rx="14" fill="#deecfa"/><g transform="translate(168 119)"><circle cy="-13" r="14" fill="#3573ad"/><path d="M-28 24C-26-3 26-3 28 24Z" fill="#3573ad"/></g>
+<rect x="541" y="76" width="183" height="80" rx="12" fill="#deecfa"/><g transform="translate(583 117)"><circle cy="-13" r="14" fill="#3573ad"/><path d="M-28 24C-26-3 26-3 28 24Z" fill="#3573ad"/></g>
+<path d="M627 119h71m-71 14h53" stroke="#84a8ca" stroke-width="5" stroke-linecap="round"/><text x="667" y="101" text-anchor="middle" fill="#142b47" font-size="14" font-weight="400">EXAMPLE</text>
+<path d="M168 180v23h231m233-23v23H399v21m-7-8 7 8 7-8" fill="none" stroke="#3573ad" stroke-width="3" stroke-linecap="round"/>
+<rect x="259" y="230" width="282" height="45" rx="16" fill="#193b61"/><text x="400" y="258" text-anchor="middle" fill="#fff" font-size="21" font-weight="700">1:1 face comparison</text></svg>
